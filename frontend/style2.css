@@ -1,0 +1,19 @@
+.details h1{
+    font-weight: bolder;
+    text-shadow:0.1px 0.1px black !important;
+    margin-bottom: 10px;
+}
+.details h3{
+    color:#585858;
+    font-weight: bolder;
+    text-shadow:0.1px 0.1px grey;
+    font-size: larger;
+    margin-bottom: 0;
+}
+.details h2{
+    font-weight: bolder;
+    margin-bottom: 10px;
+    
+}
+
+

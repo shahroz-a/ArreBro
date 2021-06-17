@@ -1,0 +1,35 @@
+/* admin */
+body{
+    background: #212529 url(../images/bg_birch_800.gif) repeat-y 50% 0;
+    
+}
+.admin-container{
+    background-color: #ecf0f5;
+}
+
+.admin-container{
+min-height: 100%;
+padding: 30px;
+}
+
+.sidebar{
+    float: left;
+}
+.admin-container{
+    margin-left:300px;
+}
+.admin-container .dash{
+    margin-bottom: 30px;
+}
+
+.admin-ul li{
+    padding: 20px 0px;
+    border-bottom: 1px solid black;
+}
+
+.admin-container button{
+    margin-top: 20px;
+}
+.hi{
+display: none !important    ;
+}
